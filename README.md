@@ -6,6 +6,7 @@ This script visually demonstrates the Bubble Sort algorithm using Matplotlib for
 
 Code Breakdown:
 1. Importing Libraries
+
 import matplotlib.pyplot as plt
 import random
 import time
